@@ -1,5 +1,11 @@
 package api
 
+/*
+ *
+ *  SiGG-Proof-Einstein-Rosen-Bridge-Theory
+ *
+ */
+
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/primasio/wormhole/db"
